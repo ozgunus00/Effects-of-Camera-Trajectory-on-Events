@@ -1,1 +1,1 @@
-# Effects-of-Camera-Trajectory-on-Events
+# EB-Traject: A Trajectory and Speed EvaluationTool for Event-Based Corner Detectors
