@@ -1,1 +1,1 @@
-# EB-Traject: A Trajectory and Speed EvaluationTool for Event-Based Corner Detectors
+# EB-Traject: A Trajectory and Speed Evaluation Tool for Event-Based Corner Detectors
